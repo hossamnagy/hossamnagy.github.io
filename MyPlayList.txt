@@ -77,6 +77,7 @@ SyriaDrama.mea,Syria Drama,http://82.137.248.21:1935/Drama/DramaLive3/playlist.m
 ext,Talaqie,rtmp://82.137.248.20:1935/Talaqie/TalaqieLive2
 ext,Alikhbaria Syria,rtmp://82.137.248.16:1935/Snews/SnewsLive1
 ext,BBC Arabia,http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+BBC1.uk,BBC,http://portal.rapidiptv.com:8080/live/rSwvA5Rsn5/coPcYkRgii/3580.ts
 DubaiTelevision.mea,Dubai TV,http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/BratuMarian.m3u8
 ext,Edhaktv,http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8
 ext,KAS,http://137.135.64.32:1935/kas/kas/gmswf.m3u8
